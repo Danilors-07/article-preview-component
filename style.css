@@ -115,13 +115,13 @@ body {
 
 .link {
     background-color: hsl(210, 46%, 95%);
-    background-image: url('/images/icon-share.svg');
+    background-image: url('images/icon-share.svg');
     width: 30px;
     border-radius: 15px 0px 0px 15px;
     border-radius: 50%;
     height: 30px;
     cursor: pointer;
-    background-image: url('/images/icon-share.svg');
+    background-image: url('images/icon-share.svg');
     background-repeat: no-repeat;
     background-position: center;
     z-index: 1;
@@ -130,7 +130,7 @@ body {
 .icon-black {
     background-color: hsl(217, 19%, 35%);
     border-radius: 50%;
-    background-image: url('/images/icon-share-black.svg');
+    background-image: url('images/icon-share-black.svg');
     background-repeat: no-repeat;
     background-position: center;
 }
